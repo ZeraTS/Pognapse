@@ -1,0 +1,93 @@
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\MLPUI.csprojAssemblyReference.cache
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\MainWindow.g.cs
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\App.g.cs
+C:\Users\sinis\source\repos\MLPUI\MLPUI\bin\Debug\MLPUI.exe.config
+C:\Users\sinis\source\repos\MLPUI\MLPUI\bin\Debug\MLPUI.exe
+C:\Users\sinis\source\repos\MLPUI\MLPUI\bin\Debug\MLPUI.pdb
+C:\Users\sinis\source\repos\MLPUI\MLPUI\bin\Debug\ControlzEx.dll
+C:\Users\sinis\source\repos\MLPUI\MLPUI\bin\Debug\MahApps.Metro.dll
+C:\Users\sinis\source\repos\MLPUI\MLPUI\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\sinis\source\repos\MLPUI\MLPUI\bin\Debug\ControlzEx.pdb
+C:\Users\sinis\source\repos\MLPUI\MLPUI\bin\Debug\ControlzEx.xml
+C:\Users\sinis\source\repos\MLPUI\MLPUI\bin\Debug\MahApps.Metro.pdb
+C:\Users\sinis\source\repos\MLPUI\MLPUI\bin\Debug\MahApps.Metro.xml
+C:\Users\sinis\source\repos\MLPUI\MLPUI\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\sinis\source\repos\MLPUI\MLPUI\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\App.baml
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\MainWindow.baml
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\MLPUI.csproj.GenerateResource.cache
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\MLPUI.csproj.CoreCompileInputs.cache
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\MLPUI.csproj.CopyComplete
+C:\Users\sinis\source\repos\MLPUI\MLPUI\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\sinis\source\repos\MLPUI\MLPUI\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\ScriptHub.g.cs
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\ScriptHub.baml
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\MLPUI.csproj.Fody.CopyLocal.cache
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\Changelog.g.cs
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\Changelog.baml
+C:\Users\TeamN\Downloads\MLPUI\MLPUI\obj\Debug\MLPUI.csprojAssemblyReference.cache
+C:\Users\TeamN\Downloads\MLPUI\MLPUI\obj\Debug\Changelog.g.cs
+C:\Users\TeamN\Downloads\MLPUI\MLPUI\obj\Debug\MainWindow.g.cs
+C:\Users\TeamN\Downloads\MLPUI\MLPUI\obj\Debug\ScriptHub.g.cs
+C:\Users\TeamN\Downloads\MLPUI\MLPUI\obj\Debug\App.g.cs
+C:\Users\TeamN\Downloads\MLPUI\MLPUI\obj\Debug\MLPUI_MarkupCompile.cache
+C:\Users\TeamN\Downloads\MLPUI\MLPUI\obj\Debug\MLPUI_MarkupCompile.lref
+C:\Users\TeamN\Downloads\MLPUI\MLPUI\obj\Debug\App.baml
+C:\Users\TeamN\Downloads\MLPUI\MLPUI\obj\Debug\Changelog.baml
+C:\Users\TeamN\Downloads\MLPUI\MLPUI\obj\Debug\MainWindow.baml
+C:\Users\TeamN\Downloads\MLPUI\MLPUI\obj\Debug\ScriptHub.baml
+C:\Users\TeamN\Downloads\MLPUI\MLPUI\obj\Debug\MLPUI.g.resources
+C:\Users\TeamN\Downloads\MLPUI\MLPUI\obj\Debug\MLPUI.Properties.Resources.resources
+C:\Users\TeamN\Downloads\MLPUI\MLPUI\obj\Debug\MLPUI.csproj.GenerateResource.cache
+C:\Users\TeamN\Downloads\MLPUI\MLPUI\obj\Debug\MLPUI.csproj.Fody.CopyLocal.cache
+C:\Users\TeamN\Downloads\MLPUI\MLPUI\obj\Debug\MLPUI.exe
+C:\Users\TeamN\Downloads\MLPUI\MLPUI\obj\Debug\MLPUI.pdb
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\InjectionFailure.g.cs
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\InjectionFailure.baml
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\InjectionSuccess.g.cs
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\InjectionSuccess.baml
+C:\Users\testl\3D Objects\Exploits\Synapse-X\MLPUI.exe.config
+C:\Users\testl\3D Objects\Exploits\Synapse-X\MLPUI.exe
+C:\Users\testl\3D Objects\Exploits\Synapse-X\MLPUI.pdb
+C:\Users\testl\OneDrive\Desktop\MLPUI\MLPUI\obj\Debug\MLPUI.csprojAssemblyReference.cache
+C:\Users\testl\OneDrive\Desktop\MLPUI\MLPUI\obj\Debug\Changelog.g.cs
+C:\Users\testl\OneDrive\Desktop\MLPUI\MLPUI\obj\Debug\InjectionFailure.g.cs
+C:\Users\testl\OneDrive\Desktop\MLPUI\MLPUI\obj\Debug\InjectionSuccess.g.cs
+C:\Users\testl\OneDrive\Desktop\MLPUI\MLPUI\obj\Debug\MainWindow.g.cs
+C:\Users\testl\OneDrive\Desktop\MLPUI\MLPUI\obj\Debug\ScriptHub.g.cs
+C:\Users\testl\OneDrive\Desktop\MLPUI\MLPUI\obj\Debug\App.g.cs
+C:\Users\testl\OneDrive\Desktop\MLPUI\MLPUI\obj\Debug\MLPUI_MarkupCompile.cache
+C:\Users\testl\OneDrive\Desktop\MLPUI\MLPUI\obj\Debug\MLPUI_MarkupCompile.lref
+C:\Users\testl\OneDrive\Desktop\MLPUI\MLPUI\obj\Debug\App.baml
+C:\Users\testl\OneDrive\Desktop\MLPUI\MLPUI\obj\Debug\Changelog.baml
+C:\Users\testl\OneDrive\Desktop\MLPUI\MLPUI\obj\Debug\InjectionFailure.baml
+C:\Users\testl\OneDrive\Desktop\MLPUI\MLPUI\obj\Debug\InjectionSuccess.baml
+C:\Users\testl\OneDrive\Desktop\MLPUI\MLPUI\obj\Debug\MainWindow.baml
+C:\Users\testl\OneDrive\Desktop\MLPUI\MLPUI\obj\Debug\ScriptHub.baml
+C:\Users\testl\OneDrive\Desktop\MLPUI\MLPUI\obj\Debug\MLPUI.g.resources
+C:\Users\testl\OneDrive\Desktop\MLPUI\MLPUI\obj\Debug\MLPUI.Properties.Resources.resources
+C:\Users\testl\OneDrive\Desktop\MLPUI\MLPUI\obj\Debug\MLPUI.csproj.GenerateResource.cache
+C:\Users\testl\OneDrive\Desktop\MLPUI\MLPUI\obj\Debug\MLPUI.csproj.CoreCompileInputs.cache
+C:\Users\testl\OneDrive\Desktop\MLPUI\MLPUI\obj\Debug\MLPUI.csproj.Fody.CopyLocal.cache
+C:\Users\testl\OneDrive\Desktop\MLPUI\MLPUI\obj\Debug\MLPUI.csproj.CopyComplete
+C:\Users\testl\OneDrive\Desktop\MLPUI\MLPUI\obj\Debug\MLPUI.exe
+C:\Users\testl\OneDrive\Desktop\MLPUI\MLPUI\obj\Debug\MLPUI.pdb
+C:\Users\testl\OneDrive\Desktop\SynapseXX\MLPUI.exe.config
+C:\Users\testl\OneDrive\Desktop\SynapseXX\MLPUI.exe
+C:\Users\testl\OneDrive\Desktop\SynapseXX\MLPUI.pdb
+C:\Users\sinis\OneDrive\Desktop\Synapse X\pognapse.exe.config
+C:\Users\sinis\OneDrive\Desktop\Synapse X\pognapse.exe
+C:\Users\sinis\OneDrive\Desktop\Synapse X\pognapse.pdb
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\NoUpdates.g.cs
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\UpdateDetected.g.cs
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\pognapse_MarkupCompile.cache
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\pognapse_MarkupCompile.lref
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\NoUpdates.baml
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\UpdateDetected.baml
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\pognapse.g.resources
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\pognapse.exe
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\pognapse.pdb
+C:\Users\sinis\source\repos\MLPUI\MLPUI\obj\Debug\pognapse.Properties.Resources.resources
+C:\Users\sinis\3D Objects\Exploits\Synapse-X\pognapse.exe.config
+C:\Users\sinis\3D Objects\Exploits\Synapse-X\pognapse.exe
+C:\Users\sinis\3D Objects\Exploits\Synapse-X\pognapse.pdb

@@ -1,0 +1,18 @@
+﻿<mah:MetroWindow x:Class="MLPUI.ScriptHub"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:mah="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:local="clr-namespace:MLPUI"
+        mc:Ignorable="d"
+        Title="Credits" Height="146.758" Width="343" ResizeMode="NoResize" ShowMaxRestoreButton="True" ShowMinButton="False" WindowTitleBrush="Black" Background="#FF1F1F1F" WindowStartupLocation="CenterScreen" Topmost="True">
+    <Grid>
+        <Label Content="Pognapse V1" HorizontalAlignment="Left" Height="35" Margin="73,8.665,0,0" VerticalAlignment="Top" Width="107" FontSize="16" Foreground="White" FontFamily="Segoe UI Semibold"/>
+        <Label Content="Developed by Zera#1000 &amp; Yorki#3480 " HorizontalAlignment="Left" Height="30" Margin="73,37.331,0,0" VerticalAlignment="Top" Width="221" Foreground="White"/>
+        <Label Content="Libs used: MahAppsMetro" HorizontalAlignment="Left" Height="30" Margin="73,77,0,0" VerticalAlignment="Top" Width="239" Foreground="White" FontSize="10.5"/>
+        <Image HorizontalAlignment="Left" RenderOptions.BitmapScalingMode="HighQuality" Height="61" Margin="7,16,0,0" VerticalAlignment="Top" Width="67" Source="pog.png"/>
+        <Label Content="Extra Credits: Laxion" HorizontalAlignment="Left" Height="30" Margin="74,57.049,0,0" VerticalAlignment="Top" Width="221" Foreground="White"/>
+
+    </Grid>
+</mah:MetroWindow>

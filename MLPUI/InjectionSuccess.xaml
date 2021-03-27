@@ -1,0 +1,48 @@
+﻿<mah:MetroWindow x:Class="MLPUI.InjectionSuccess"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MLPUI"
+        xmlns:mah="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        mc:Ignorable="d"
+          Title="Success" Height="128.758" Width="343" ResizeMode="NoResize" ShowMaxRestoreButton="True" ShowMinButton="False" WindowTitleBrush="Black" Background="#FF1F1F1F" WindowStartupLocation="CenterOwner" Topmost="True">
+    <Grid>
+        <Ellipse HorizontalAlignment="Left" Height="48.382" Margin="19.49,18.001,0,0" Stroke="#FFDADADA" VerticalAlignment="Top" Width="46.588" StrokeThickness="1.5"/>
+        <Image HorizontalAlignment="Left" RenderOptions.BitmapScalingMode="HighQuality" Height="34.942" Margin="24.6,24.225,0,0" VerticalAlignment="Top" Width="35.58" Source="checkmark_24px.png" Visibility="Hidden" />
+        <Border BorderThickness="1" HorizontalAlignment="Left" Height="15.358" Margin="60.212,23.379,0,0" VerticalAlignment="Top" Width="17.607" RenderTransformOrigin="0.5,0.5" Background="#FF1F1F1F">
+            <Border.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="0.994" ScaleX="1.006"/>
+                    <SkewTransform AngleY="1.748"/>
+                    <RotateTransform Angle="20.035"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Border.RenderTransform>
+        </Border>
+        <Border BorderThickness="1" HorizontalAlignment="Left" Height="15.358" Margin="38.204,64.85,0,0" VerticalAlignment="Top" Width="17.606" RenderTransformOrigin="0.5,0.5" Background="#FF1F1F1F">
+            <Border.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="0.99" ScaleX="1.01"/>
+                    <SkewTransform AngleY="2.217"/>
+                    <RotateTransform Angle="27.774"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Border.RenderTransform>
+        </Border>
+        <Border BorderThickness="1" HorizontalAlignment="Left" Height="15.358" Margin="6.727,21.994,0,0" VerticalAlignment="Top" Width="17.606" RenderTransformOrigin="0.645,0.326" Background="#FF1F1F1F">
+            <Border.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="0.999" ScaleX="1.001"/>
+                    <SkewTransform AngleY="-0.797"/>
+                    <RotateTransform Angle="-8.459"/>
+                    <TranslateTransform X="0.674" Y="0.98"/>
+                </TransformGroup>
+            </Border.RenderTransform>
+        </Border>
+        <Label Content="Successfully Injected Pognapse.&#xD;&#xA;Press OK to continue." HorizontalAlignment="Left" Height="41.667" Margin="82.338,17,0,0" VerticalAlignment="Top" Width="204.334" Foreground="White"/>
+        <Button Content="OK" HorizontalAlignment="Left" Height="17" Margin="267.006,61.995,0,0" VerticalAlignment="Top" Width="61.334" Background="#FF1F1F1F" Foreground="White" Padding="5,4,5,6" Click="Button_Click"/>
+        <Path Data="M31.25,43.75 L37.75,50.25 54.75,33.25" HorizontalAlignment="Left" Height="19.75" Margin="29.25,31.75,0,0" Stretch="Fill" Stroke="White" StrokeThickness="3" VerticalAlignment="Top" Width="27.25"/>
+
+    </Grid>
+</mah:MetroWindow>

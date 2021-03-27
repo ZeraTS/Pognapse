@@ -1,0 +1,48 @@
+﻿<mah:MetroWindow x:Class="MLPUI.NoUpdates"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MLPUI"
+        xmlns:mah="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        mc:Ignorable="d"
+         Title="No Updates Found" Height="128.758" Width="343" ResizeMode="NoResize" ShowMaxRestoreButton="True" ShowMinButton="False" WindowTitleBrush="Black" Background="#FF1F1F1F" WindowStartupLocation="CenterOwner" Topmost="True">
+    <Grid>
+        <Label Content="No potential updates have been found.&#xA;Press OK to continue." HorizontalAlignment="Left" Height="41.667" Margin="82.338,17,0,0" VerticalAlignment="Top" Width="217.001" Foreground="White"/>
+        <Button Content="OK" HorizontalAlignment="Left" Height="17" Margin="267.006,61.995,0,0" VerticalAlignment="Top" Width="61.334" Background="#FF1F1F1F" Foreground="White" Padding="5,4,5,6" Click="CockSucker_Click"/>
+        <Ellipse HorizontalAlignment="Left" Height="48.382" Margin="19.49,18.001,0,0" Stroke="#FFDADADA" VerticalAlignment="Top" Width="46.588" StrokeThickness="1.5"/>
+        <Border BorderThickness="1" HorizontalAlignment="Left" Height="15.358" Margin="60.212,23.379,0,0" VerticalAlignment="Top" Width="17.607" RenderTransformOrigin="0.5,0.5" Background="#FF1F1F1F">
+            <Border.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="0.994" ScaleX="1.006"/>
+                    <SkewTransform AngleY="1.748"/>
+                    <RotateTransform Angle="20.035"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Border.RenderTransform>
+        </Border>
+        <Border BorderThickness="1" HorizontalAlignment="Left" Height="15.358" Margin="38.204,64.85,0,0" VerticalAlignment="Top" Width="17.606" RenderTransformOrigin="0.5,0.5" Background="#FF1F1F1F">
+            <Border.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="0.99" ScaleX="1.01"/>
+                    <SkewTransform AngleY="2.217"/>
+                    <RotateTransform Angle="27.774"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Border.RenderTransform>
+        </Border>
+        <Border BorderThickness="1" HorizontalAlignment="Left" Height="15.358" Margin="6.727,21.994,0,0" VerticalAlignment="Top" Width="17.606" RenderTransformOrigin="0.645,0.326" Background="#FF1F1F1F">
+            <Border.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="0.999" ScaleX="1.001"/>
+                    <SkewTransform AngleY="-0.797"/>
+                    <RotateTransform Angle="-8.459"/>
+                    <TranslateTransform X="0.674" Y="0.98"/>
+                </TransformGroup>
+            </Border.RenderTransform>
+        </Border>
+        <Path Data="M31.5,31.25 L52,53.625" HorizontalAlignment="Left" Height="24.333" Margin="32,30.417,0,0" Stretch="Fill" Stroke="#FFDADADA" StrokeThickness="2" VerticalAlignment="Top" Width="22.583"/>
+        <Path Data="M52.583538,31.083039 L31.416326,54.083666" HorizontalAlignment="Left" Height="24.5" Margin="31.084,30.25,0,0" Stretch="Fill" Stroke="#FFDADADA" StrokeThickness="2" VerticalAlignment="Top" Width="23.499"/>
+
+    </Grid>
+</mah:MetroWindow>
